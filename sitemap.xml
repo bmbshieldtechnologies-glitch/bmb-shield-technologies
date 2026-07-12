@@ -36,5 +36,9 @@
     <loc>https://bmbshieldtechnologies-glitch.github.io/bmb-shield-technologies/contact.html</loc>
     <priority>0.8</priority>
   </url>
-
+  <url>
+  <loc>https://bmbshieldtechnologies-glitch.github.io/bmb-shield-technologies/</loc>
+  <lastmod>2026-07-12</lastmod>
+  <priority>1.0</priority>
+</url>
 </urlset>
