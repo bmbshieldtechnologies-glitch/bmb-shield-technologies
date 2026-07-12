@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bmbshieldtechnologies-glitch.github.io/bmb-shield-technologies/sitemap.xml
