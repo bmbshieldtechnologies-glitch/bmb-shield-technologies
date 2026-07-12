@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://bmbshieldtechnologies-glitch.github.io/bmb-shield-technologies/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://bmbshieldtechnologies-glitch.github.io/bmb-shield-technologies/about.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://bmbshieldtechnologies-glitch.github.io/bmb-shield-technologies/services.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://bmbshieldtechnologies-glitch.github.io/bmb-shield-technologies/products.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://bmbshieldtechnologies-glitch.github.io/bmb-shield-technologies/projects.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://bmbshieldtechnologies-glitch.github.io/bmb-shield-technologies/team.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://bmbshieldtechnologies-glitch.github.io/bmb-shield-technologies/contact.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
