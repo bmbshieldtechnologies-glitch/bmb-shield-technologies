@@ -24,9 +24,47 @@ async function loadQuestions(){
     div.className = "question";
 
     div.innerHTML = `
-      <h3>${q.question}</h3>
-      <p>Type: ${q.type}</p>
-    `;
+<h3>${q.question}</h3>
+<p>Type: ${q.type}</p>
+
+${
+q.type === "mcq"
+?
+`
+<label>
+<input type="radio" name="${doc.id}">
+${q.option1}
+</label><br>
+
+<label>
+<input type="radio" name="${doc.id}">
+${q.option2}
+</label><br>
+
+<label>
+<input type="radio" name="${doc.id}">
+${q.option3}
+</label><br>
+
+<label>
+<input type="radio" name="${doc.id}">
+${q.option4}
+</label>
+`
+:
+q.type === "theory"
+?
+`
+<textarea rows="5"
+placeholder="Write your answer"></textarea>
+`
+:
+`
+<textarea rows="10"
+placeholder="Write your code"></textarea>
+`
+}
+`;
 
     container.appendChild(div);
   });
